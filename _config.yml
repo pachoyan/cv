@@ -120,7 +120,7 @@ content:
         sub_title: Software Engineer
         caption: August 2016 - August 2017 (Valencia - Spain)
         quote: >
-          Developed RESTful microservices for easyJet’s hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
+          Developed RESTful microservices for easyJet's hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
         description: |
           Technologies: <mark>Java</mark> <mark>Spring</mark> <mark>Spring Boot</mark> <mark>PostgreSQL</mark> <mark>REST APIs</mark> <mark>AngularJS</mark>
 
@@ -166,7 +166,7 @@ content:
           - title:  enctryptor-PCY
             icon: fab fa-github
         quote: >
-          Master’s Final Project
+          Master's Final Project
         description: | 
           Designed and developed an encrypted file explorer that secures any type of file, ensuring access is restricted to the user only. 
           Supports encryption of videos, photos, voice notes, and arbitrary files stored on the device to protect sensitive content from unauthorized access.
@@ -180,11 +180,11 @@ content:
         caption: 2010 - 2013
         sub_title: UPV - Universitat Politècnica de València
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Master's program focused on cross-platform mobile and web development
         description: |
           Technologies: <mark>Java</mark> <mark>Android</mark> <mark>iOS</mark> <mark>Swift</mark> <mark>HTML5</mark> <mark>REST APIs</mark> <mark>jQuery Mobile</mark> <mark>AngularJS</mark> <mark>Node.js</mark> <mark>Xamarin</mark>
 
-          Completed a Master’s program focused on cross-platform mobile and web development, covering Android programming fundamentals, iOS development with Swift and MVC, real-time databases, push notifications, and authentication. Gained experience in modern web technologies including HTML5, RESTful APIs, jQuery Mobile, Ionic + AngularJS, and Node.js. 
+          Completed a Master's program focused on cross-platform mobile and web development, covering Android programming fundamentals, iOS development with Swift and MVC, real-time databases, push notifications, and authentication. Gained experience in modern web technologies including HTML5, RESTful APIs, jQuery Mobile, Ionic + AngularJS, and Node.js. 
           Additionally, worked with Windows UWP, C#, Xamarin, and Xamarin Forms for cross-platform app development.
   
   - title: Tech Hobbies
@@ -197,6 +197,17 @@ content:
       - Using new shells and terminal-based tools to enhance productivity: Nushell, Elvish, Xonsh, Zsh, Fish, and PowerShell.
       - Experimenting with different IDEs and text editors: IntelliJ, VSCode, NVim, and Vim.
       - Contributing to stackoverflow and medium and online communities to share knowledge and learn from others.
+
+  - title: About me
+    layout: text
+    content: |
+
+      Although I love software engineering, I also enjoy spending time doing other activities.
+      - Traveling and exploring new cultures.
+      - Playing tennis, football, padel and squash.
+      - Watching movies and series.
+      - Reading books and articles on various topics.
+      - Attend meetups and conferences to expand knowledge in physics and other scientific disciplines.
 
 # Footer
 footer_show_references: true
