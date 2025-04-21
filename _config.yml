@@ -53,6 +53,7 @@ content:
           - Kotlin
           - SQL
           - Bash and PowerShell Scripting
+          - Groovy
           - Rust
 
       - layout: left
@@ -82,7 +83,7 @@ content:
         quote: >
           Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
         description: |
-          Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>Apache Kafka</mark>, <mark>Debezium</mark>, <mark>Oracle</mark>, <mark>Jenkins</mark>, <mark>Spring Boot</mark>, <mark>Apache Camel</mark>, <mark>Kubernetes</mark>
+          Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>Apache Kafka</mark>, <mark>Debezium</mark>, <mark>Oracle</mark>, <mark>Jenkins</mark>, <mark>Spring Boot</mark>, <mark>Apache Camel</mark>, <mark>Jenkins</mark>, <mark>Kubernetes</mark>, <mark>AWS Eclipse RCP/RAP</mark>, <mark>Groovy</mark>
 
           - Lead a cross-functional engineering team, mentoring developers through pair programming, code reviews, and technical coaching. Promoted knowledge sharing and engineering excellence across the team.
           - Designed and maintained CI/CD pipelines using Jenkins for automated building, releasing, and deploying of core applications. Produced detailed internal documentation and created onboarding and training materials.
@@ -101,7 +102,7 @@ content:
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
         description: |
-            Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>Apache Spark</mark>, <mark>Apache Flink</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>
+            Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>ETL</mark>, <mark>Apache Spark</mark>, <mark>Apache Flink</mark>, <mark>PostgreSQL</mark>, <mark>AWS Fargate</mark>, <mark>REST APIs</mark>, <mark>Polars</mark>, <mark>AWS S3</mark>, <mark>AWS DynamoDB</mark>, <mark>AWS Kinesis</mark>, <mark>GitHub Actions</mark>
 
             - Led a team of engineers, providing mentorship through pair programming, code reviews, and skill development initiatives to ensure high-quality deliverables and foster continuous learning.
             - Contributed to the design and implementation of a scalable data warehouse on Amazon Redshift, centralizing data from diverse sources to support real-time risk evaluation and policy pricing.
@@ -120,7 +121,7 @@ content:
         quote: >
           Developed RESTful microservices for easyJet’s hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
         description: |
-          Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>
+          Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>, <mark>AngularJS</mark>
 
             - Worked as a Software Engineer on the easyJet hotel booking integration project, contributing to the development of a microservices architecture for hotel booking functionalities.
           - Contributed to the development of a hotel booking application integrated into easyJet's flight reservation system, enhancing the customer experience by enabling hotel selection during flight booking.
@@ -159,11 +160,10 @@ content:
     content:
       - layout: top-middle
         title: Encrypted File Explorer
-        link: github.com/sproogen
+        link: androidcurso.com/index.php/modulo-fundamentos/proyectos-finales-alumnos/67-proyectos-finales-curso-android-fundamentos-6-ed-2015/628-encryptorpcy
         additional_links:
           - title:  enctryptor-PCY
             icon: fab fa-github
-            url: androidcurso.com/index.php/modulo-fundamentos/proyectos-finales-alumnos/67-proyectos-finales-curso-android-fundamentos-6-ed-2015/628-encryptorpcy
         quote: >
           Master’s Final Project
         description: | 
@@ -181,19 +181,21 @@ content:
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Technologies: <mark>Java</mark>, <mark>Android</mark>, <mark>iOS</mark>, <mark>Swift</mark>, <mark>HTML5</mark>, <mark>REST APIs</mark>, <mark>jQuery Mobile</mark>, <mark>AngularJS</mark>, <mark>Node.js</mark>, <mark>Xamarin</mark>
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+          Completed a Master’s program focused on cross-platform mobile and web development, covering Android programming fundamentals, iOS development with Swift and MVC, real-time databases, push notifications, and authentication. Gained experience in modern web technologies including HTML5, RESTful APIs, jQuery Mobile, Ionic + AngularJS, and Node.js. 
+          Additionally, worked with Windows UWP, C#, Xamarin, and Xamarin Forms for cross-platform app development.
+  
+  - title: Tech Hobbies
     layout: text
     content: |
-      Alongside my interests in oftware engineering some of my other interests and hobbies are:
-      - Football
-      - Running
-      - Tennis
-      - Cycling
 
+      Alongside my interests in software engineering some of personale interests on technology include:
+      - Exploring the latest trends in software development and data engineering.
+      - Trying out new programming languages and frameworks.
+      - Using new shells and terminal-based tools to enhance productivity: Nushell, Elvish, Xonsh, Zsh, Fish, and PowerShell.
+      - Experimenting with different IDEs and text editors: IntelliJ, VSCode, NVim, and Vim.
+      - Contributing to stackoverflow and medium and online communities to share knowledge and learn from others.
 
 # Footer
 footer_show_references: true
