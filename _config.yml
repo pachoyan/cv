@@ -32,17 +32,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Pau and I'm a senior software/data engineer. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Java</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>Data Engineering</mark> <mark>Java</mark> and <mark>Python</mark>
 
 content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
     content:
       - layout: left
         title: Languages
         quote: >
           I am most skilled in Java and Python
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - <mark>Java<mark>
           - <mark>Python<mark>
           - Kotlin
@@ -66,7 +66,7 @@ content:
           - Jupyter Notebook
 
   - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: list
     content:
       - layout: left
         title: MIC Cust Solutions
@@ -74,9 +74,17 @@ content:
         sub_title: Technical Lead
         caption: August 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
+        description: |
+          - Lead a cross-functional engineering team, mentoring developers through pair programming, code reviews, and technical coaching. Promoted knowledge sharing and engineering excellence across the team.
+          - Designed and maintained CI/CD pipelines using Jenkins for automated building, releasing, and deploying of core applications. Produced detailed internal documentation and created onboarding and training materials.
+          - Analyzed and architected client-specific projects in the domain of international customs and trade compliance, handling complex product stock breakdowns to compute import/export declarations and facilitate communication with customs authorities.
+          - Maintained a large legacy system based on an Eclipse RAP application, an Apache Camel integration layer, and an Oracle database with extensive PL/SQL logic.
+          - Led a stack modernization initiative, introducing Apache Kafka and Debezium to enable streaming data pipelines for near real-time processing and integration.
+          - Refactored core business logic by migrating from untested PL/SQL code to maintainable Java and Python services, improving testability, observability, and reliability.
+          - Developed internal tools for data handling, automated regression/system testing, and platform monitoring, supporting development velocity and system stability.
+          - Implemented batch processing solutions for analytics use cases, pre-aggregating and restructuring data spanning multiple Oracle tables to significantly improve query performance and report generation.
+      
       - layout: left
         title: Policy Expert
         link: https://www.policyexpert.co.uk/
@@ -84,7 +92,7 @@ content:
         caption: August 2017 - August 2023
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>Apache Spark</mark>, <mark>Apache Flink</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>
 
             - Led a team of engineers, providing mentorship through pair programming, code reviews, and skill development initiatives to ensure high-quality deliverables and foster continuous learning.
@@ -103,7 +111,7 @@ content:
         caption: August 2016 - August 2017
         quote: >
           Developed RESTful microservices for easyJet’s hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>
 
             - Worked as a Software Engineer on the easyJet hotel booking integration project, contributing to the development of a microservices architecture for hotel booking functionalities.
@@ -111,6 +119,7 @@ content:
           - Developed RESTful APIs using Spring Boot microservices, with Feign clients for inter-service communication and PostgreSQL as the data backend.
           - Implemented key backend features to support booking workflows, pricing, and availability checks.
           - Collaborated on a lightweight Angular frontend component to support the user interface, ensuring seamless interaction with the new hotel booking module.
+
       - layout: left
         title: NTT Data/Everis
         link: https://www.nttdata.com/
@@ -118,11 +127,24 @@ content:
         caption: August 2015 - August 2016
         quote: >
           Contributed to the migration of a banking backend from monolith to microservices
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>Oracle</mark>, <mark>Eureka</mark>, <mark>Zuul</mark>, <mark>Hystrix</mark>
 
             - Worked as a Software Engineer on the backend modernization of a major banking system, contributing to the migration from a monolithic architecture to microservices. 
             - Developed and maintained multiple Spring Boot microservices integrated with Oracle databases, and implemented service discovery and routing using Eureka, Hystrix and Zuul.
+
+      - layout: left
+        title: Fun Readers
+        link: https://www.funreaders.es/
+        sub_title: Internship
+        caption: March 2016 - August 2016
+        quote: >
+          Created a web application for a book club using PHP and MySQL
+        description: | # this will include new lines to allow paragraphs
+          Technologies: <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML</mark>, <mark>Javascript</mark>, <mark>CSS</mark>
+
+          - Created a web application for a book club using PHP and MySQL, enabling users to manage their book collections, track reading progress, and connect with fellow readers.
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
