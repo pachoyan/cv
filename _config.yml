@@ -22,7 +22,7 @@ linkedin_username: pachoyan
 # Additional icon links
 additional_links:
 - title: medium.com
-  icon: fas fa-globe
+  icon: fa-brands fa-medium
   url: https://medium.com/@pachoyan
 
 
@@ -32,11 +32,12 @@ about_profile_image: images/profile.jpg
 about_content: |
   Versatile and experienced software/data engineer with a strong background in Java and Python development. Proven ability to adapt across a wide variety of technologies, languages, and tools. Demonstrated success in collaborative and leadership roles across diverse companies and teams.
 
-  - Core Strengths:
-  - - Languages & Frameworks: Expert in Java and Python with hands-on experience across multiple languages and frameworks.
-  - - Terminal & Shell Enthusiast: Passionate about terminal-based workflows. Used numerous shells including Xonsh, Elvish, Nushell, Fish, Zsh, Bash, and PowerShell.
-  - - Technological Adaptability: Quickly adapt to technologies and contributing to projects spanning full-stack systems, data pipelines, and infrastructure scripting.
-  - - Teamwork & Leadership: Built strong interpersonal and coordination skills through years of working in collaborative environments.
+  Core Strengths:
+
+   - Languages & Frameworks: Expert in Java and Python with hands-on experience across multiple languages and frameworks.
+   - Terminal & Shell Enthusiast: Passionate about terminal-based workflows. Used numerous shells including Xonsh, Elvish, Nushell, Fish, Zsh, Bash, and PowerShell.
+   - Technological Adaptability: Quickly adapt to technologies and contributing to projects spanning full-stack systems, data pipelines, and infrastructure scripting.
+   - Teamwork & Leadership: Built strong interpersonal and coordination skills through years of working in collaborative environments.
 
 content:
 
@@ -83,7 +84,7 @@ content:
         quote: >
           Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
         description: |
-          Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>Apache Kafka</mark>, <mark>Debezium</mark>, <mark>Oracle</mark>, <mark>Jenkins</mark>, <mark>Spring Boot</mark>, <mark>Apache Camel</mark>, <mark>Jenkins</mark>, <mark>Kubernetes</mark>, <mark>AWS Eclipse RCP/RAP</mark>, <mark>Groovy</mark>
+          Technologies: <mark>Java</mark> <mark>Python</mark> <mark>Apache Kafka</mark> <mark>Debezium</mark> <mark>Oracle</mark> <mark>Jenkins</mark> <mark>Spring Boot</mark> <mark>Apache Camel</mark> <mark>Jenkins</mark> <mark>Kubernetes</mark> <mark>AWS Eclipse RCP/RAP</mark> <mark>Groovy</mark>
 
           - Lead a cross-functional engineering team, mentoring developers through pair programming, code reviews, and technical coaching. Promoted knowledge sharing and engineering excellence across the team.
           - Designed and maintained CI/CD pipelines using Jenkins for automated building, releasing, and deploying of core applications. Produced detailed internal documentation and created onboarding and training materials.
@@ -102,7 +103,7 @@ content:
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
         description: |
-            Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>ETL</mark>, <mark>Apache Spark</mark>, <mark>Apache Flink</mark>, <mark>PostgreSQL</mark>, <mark>AWS Fargate</mark>, <mark>REST APIs</mark>, <mark>Polars</mark>, <mark>AWS S3</mark>, <mark>AWS DynamoDB</mark>, <mark>AWS Kinesis</mark>, <mark>GitHub Actions</mark>
+            Technologies: <mark>Java</mark> <mark>Python</mark> <mark>AWS</mark> <mark>ETL</mark> <mark>Apache Spark</mark> <mark>Apache Flink</mark> <mark>PostgreSQL</mark>, <mark>AWS Fargate</mark> <mark>REST APIs</mark> <mark>Polars</mark> <mark>AWS S3</mark> <mark>AWS DynamoDB</mark> <mark>AWS Kinesis</mark> <mark>GitHub Actions</mark>
 
             - Led a team of engineers, providing mentorship through pair programming, code reviews, and skill development initiatives to ensure high-quality deliverables and foster continuous learning.
             - Contributed to the design and implementation of a scalable data warehouse on Amazon Redshift, centralizing data from diverse sources to support real-time risk evaluation and policy pricing.
@@ -121,7 +122,7 @@ content:
         quote: >
           Developed RESTful microservices for easyJet’s hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
         description: |
-          Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>PostgreSQL</mark>, <mark>REST APIs</mark>, <mark>AngularJS</mark>
+          Technologies: <mark>Java</mark> <mark>Spring</mark> <mark>Spring Boot</mark> <mark>PostgreSQL</mark> <mark>REST APIs</mark> <mark>AngularJS</mark>
 
             - Worked as a Software Engineer on the easyJet hotel booking integration project, contributing to the development of a microservices architecture for hotel booking functionalities.
           - Contributed to the development of a hotel booking application integrated into easyJet's flight reservation system, enhancing the customer experience by enabling hotel selection during flight booking.
@@ -137,7 +138,7 @@ content:
         quote: >
           Contributed to the migration of a banking backend from monolith to microservices
         description: |
-            Technologies: <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring Boot</mark>, <mark>Oracle</mark>, <mark>Eureka</mark>, <mark>Zuul</mark>, <mark>Hystrix</mark>
+            Technologies: <mark>Java</mark> <mark>Spring</mark> <mark>Spring Boot</mark> <mark>Oracle</mark> <mark>Eureka</mark> <mark>Zuul</mark> <mark>Hystrix</mark>
 
             - Worked as a Software Engineer on the backend modernization of a major banking system, contributing to the migration from a monolithic architecture to microservices. 
             - Developed and maintained multiple Spring Boot microservices integrated with Oracle databases, and implemented service discovery and routing using Eureka, Hystrix and Zuul.
@@ -149,8 +150,8 @@ content:
         caption: March 2016 - August 2016 (Alicante - Spain)
         quote: >
           Created a web application for a book club using PHP and MySQL
-        description: | # this will include new lines to allow paragraphs
-          Technologies: <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML</mark>, <mark>Javascript</mark>, <mark>CSS</mark>
+        description: |
+          Technologies: <mark>PHP</mark> <mark>MySQL</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>CSS</mark>
 
           - Created a web application for a book club using PHP and MySQL, enabling users to manage their book collections, track reading progress, and connect with fellow readers.
 
@@ -181,7 +182,7 @@ content:
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
-          Technologies: <mark>Java</mark>, <mark>Android</mark>, <mark>iOS</mark>, <mark>Swift</mark>, <mark>HTML5</mark>, <mark>REST APIs</mark>, <mark>jQuery Mobile</mark>, <mark>AngularJS</mark>, <mark>Node.js</mark>, <mark>Xamarin</mark>
+          Technologies: <mark>Java</mark> <mark>Android</mark> <mark>iOS</mark> <mark>Swift</mark> <mark>HTML5</mark> <mark>REST APIs</mark> <mark>jQuery Mobile</mark> <mark>AngularJS</mark> <mark>Node.js</mark> <mark>Xamarin</mark>
 
           Completed a Master’s program focused on cross-platform mobile and web development, covering Android programming fundamentals, iOS development with Swift and MVC, real-time databases, push notifications, and authentication. Gained experience in modern web technologies including HTML5, RESTful APIs, jQuery Mobile, Ionic + AngularJS, and Node.js. 
           Additionally, worked with Windows UWP, C#, Xamarin, and Xamarin Forms for cross-platform app development.
