@@ -43,6 +43,7 @@ about_content: |
   - Technical Leadership: Proven track record of mentoring teammates, reviewing code, guiding architecture decisions, and contributing to a culture of quality and collaboration.
   - Adaptability: Comfortable working across a diverse technical landscape and learning new tools and frameworks as needed.
 
+# Contact Section
 content:
 
   - title: Skills
@@ -77,7 +78,6 @@ content:
           - Jupyter Notebook
 
   - title: Experience
-
     layout: list
     content:
       - layout: left
@@ -180,8 +180,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: Master Phone Development Apps - Android and IOS
-        caption: 2010 - 2013
+        title: Master Degree Phone Development Apps - Android and IOS
+        caption: 2014 - 2016
         sub_title: UPV - Universitat Politècnica de València
         quote: >
           Master's program focused on cross-platform mobile and web development
@@ -190,6 +190,15 @@ content:
 
           Completed a Master's program focused on cross-platform mobile and web development, covering Android programming fundamentals, iOS development with Swift and MVC, real-time databases, push notifications, and authentication. Gained experience in modern web technologies including HTML5, RESTful APIs, jQuery Mobile, Ionic + AngularJS, and Node.js. 
           Additionally, worked with Windows UWP, C#, Xamarin, and Xamarin Forms for cross-platform app development.
+
+      - layout: left
+        title: Degree
+        caption: 2009 - 2014
+        sub_title: Universidad de Alicante
+        quote: >
+          Degree 
+        description: |
+          Degree completed in University of Alicante, Spain.
   
   - title: Tech Hobbies
     layout: text
@@ -214,8 +223,7 @@ content:
       - Attend meetups and conferences to expand knowledge in physics and other scientific disciplines.
 
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
