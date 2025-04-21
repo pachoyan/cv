@@ -35,6 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Data Engineering</mark> <mark>Java</mark> and <mark>Python</mark>
 
 content:
+
   - title: Skills
     layout: list
     content:
@@ -65,7 +66,8 @@ content:
           - Bash, Zsh, Fish and PowerShell 
           - Jupyter Notebook
 
-  - title: Experience # Title for the section
+  - title: Experience
+
     layout: list
     content:
       - layout: left
@@ -76,6 +78,8 @@ content:
         quote: >
           Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
         description: |
+          Technologies: <mark>Java</mark>, <mark>Python</mark>, <mark>Apache Kafka</mark>, <mark>Debezium</mark>, <mark>Oracle</mark>, <mark>Jenkins</mark>, <mark>Spring Boot</mark>, <mark>Apache Camel</mark>, <mark>Kubernetes</mark>
+
           - Lead a cross-functional engineering team, mentoring developers through pair programming, code reviews, and technical coaching. Promoted knowledge sharing and engineering excellence across the team.
           - Designed and maintained CI/CD pipelines using Jenkins for automated building, releasing, and deploying of core applications. Produced detailed internal documentation and created onboarding and training materials.
           - Analyzed and architected client-specific projects in the domain of international customs and trade compliance, handling complex product stock breakdowns to compute import/export declarations and facilitate communication with customs authorities.
@@ -88,7 +92,7 @@ content:
       - layout: left
         title: Policy Expert
         link: https://www.policyexpert.co.uk/
-        sub_title: Data Software Engineer/Data Technical Lead
+        sub_title: Data Technical Lead/Data Engineer
         caption: August 2017 - August 2023
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
@@ -146,8 +150,8 @@ content:
           - Created a web application for a book club using PHP and MySQL, enabling users to manage their book collections, track reading progress, and connect with fellow readers.
 
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Encrypted File Explorer
@@ -163,8 +167,8 @@ content:
           Supports encryption of videos, photos, voice notes, and arbitrary files stored on the device to protect sensitive content from unauthorized access.
 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Master Phone Development Apps - Android and IOS
@@ -172,14 +176,14 @@ content:
         sub_title: UPV - Universitat Politècnica de València
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my interests in oftware engineering some of my other interests and hobbies are:
       - Football
       - Running
