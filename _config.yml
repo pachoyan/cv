@@ -43,18 +43,26 @@ content:
         quote: >
           I am most skilled in Java and Python
         description: | # this will include new lines to allow paragraphs
-          - Java
-          - Python
+          - <mark>Java<mark>
+          - <mark>Python<mark>
+          - Kotlin
+          - C#
+          - Rust
           - SQL
-      - layout: right
+          - Bash and PowerShell Scripting
+      - layout: left
         title: Technologies
         quote: >
-          I am most skilled in Java and Python
+          Some of the technologies I have worked with
         description: | # this will include new lines to allow paragraphs
-          - AWS (SageMaker, Redshift, Kinesis)
-          - Apache Spark/Flink
+          - AWS (SageMaker, Redshift, Kinesis, S3, Lambda, DynamoDB, Glue, CloudFormation)
+          - Github Actions
+          - Apache Spark
+          - Apache Flink
           - Docker/Kubernetes
+          - Spring and Spring Boot
           - REST APIs
+          - Bash, Zsh, Fish, PowerShell, Nushell and Xonsh 
           - Jupyter Notebook
 
   - title: Experience # Title for the section
