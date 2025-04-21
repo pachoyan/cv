@@ -74,7 +74,7 @@ content:
         title: MIC Cust Solutions
         link: https://www.mic-cust.com/
         sub_title: Technical Lead
-        caption: August 2023 - Present
+        caption: August 2023 - Present (Mexico City - Mexico)
         quote: >
           Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
         description: |
@@ -93,7 +93,7 @@ content:
         title: Policy Expert
         link: https://www.policyexpert.co.uk/
         sub_title: Data Technical Lead/Data Engineer
-        caption: August 2017 - August 2023
+        caption: August 2017 - August 2023 (London - UK)
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
         description: |
@@ -112,7 +112,7 @@ content:
         title: Inetum/Gfi
         link: https://www.inetum.com/
         sub_title: Software Engineer
-        caption: August 2016 - August 2017
+        caption: August 2016 - August 2017 (Valencia - Spain)
         quote: >
           Developed RESTful microservices for easyJet’s hotel booking integration using Spring Boot, Feign clients, and PostgreSQL
         description: |
@@ -128,7 +128,7 @@ content:
         title: NTT Data/Everis
         link: https://www.nttdata.com/
         sub_title: Junior Software Engineer
-        caption: August 2015 - August 2016
+        caption: August 2015 - August 2016 (Alicante - Spain)
         quote: >
           Contributed to the migration of a banking backend from monolith to microservices
         description: |
@@ -141,7 +141,7 @@ content:
         title: Fun Readers
         link: https://www.funreaders.es/
         sub_title: Internship
-        caption: March 2016 - August 2016
+        caption: March 2016 - August 2016 (Alicante - Spain)
         quote: >
           Created a web application for a book club using PHP and MySQL
         description: | # this will include new lines to allow paragraphs
