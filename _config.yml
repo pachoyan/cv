@@ -22,7 +22,7 @@ linkedin_username: pachoyan
 # Additional icon links
 additional_links:
 - title: medium.com
-  icon: fa-brands fa-medium
+  icon: fab fa-medium
   url: https://medium.com/@pachoyan
 
 
@@ -30,14 +30,18 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Versatile and experienced software/data engineer with a strong background in Java and Python development. Proven ability to adapt across a wide variety of technologies, languages, and tools. Demonstrated success in collaborative and leadership roles across diverse companies and teams.
+  Versatile and passionate software/data engineer with a solid background in Java and Python. As a tech lead, I focus on building high-quality, maintainable systems and fostering strong development practices. I have broad experience designing software architectures, maintaining and refactoring legacy systems, leading migrations, mentoring engineers, and building data pipelines.
 
   Core Strengths:
 
-   - Languages & Frameworks: Expert in Java and Python with hands-on experience across multiple languages and frameworks.
-   - Terminal & Shell Enthusiast: Passionate about terminal-based workflows. Used numerous shells including Xonsh, Elvish, Nushell, Fish, Zsh, Bash, and PowerShell.
-   - Technological Adaptability: Quickly adapt to technologies and contributing to projects spanning full-stack systems, data pipelines, and infrastructure scripting.
-   - Teamwork & Leadership: Built strong interpersonal and coordination skills through years of working in collaborative environments.
+  Languages & Frameworks: Deep experience with Java and Python, along with exposure to a wide range of programming languages and technologies across backend and data domains.
+  
+  - Data Engineering & ETL: Skilled in designing and maintaining robust ETL pipelines, ensuring data integrity and scalability in processing workflows.
+  - Terminal & Workflow Enthusiast: Passionate about efficient, terminal-based development. Regular user of Bash, Zsh, Fish, Nushell, and PowerShell.
+  - Documentation & Knowledge Sharing: Enjoy writing clear, thorough documentation and creating internal training materials to support team growth and onboarding.
+  - Cloud & DevOps: Practical experience working with cloud environments and continuous integration tools such as Jenkins and GitHub Actions.
+  - Technical Leadership: Proven track record of mentoring teammates, reviewing code, guiding architecture decisions, and contributing to a culture of quality and collaboration.
+  - Adaptability: Comfortable working across a diverse technical landscape and learning new tools and frameworks as needed.
 
 content:
 
