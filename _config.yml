@@ -31,16 +31,15 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Versatile and passionate software/data engineer with a solid background in Java and Python. As a tech lead, I focus on building high-quality, maintainable systems and fostering strong development practices. I have broad experience designing software architectures, maintaining and refactoring legacy systems, leading migrations, mentoring engineers, and building data pipelines.
-
+  Versatile and passionate data/software engineer with a solid background in Java and Python. As a tech lead, I focus on building high-quality, maintainable systems and fostering strong development practices. I have broad experience designing software architectures, maintaining and refactoring legacy systems, leading migrations, mentoring engineers, and building data pipelines.
+  I bring deep experience in the Java and Python ecosystems, complemented by broad exposure to diverse programming languages and technologies across backend and data domains.
+  
   Core Strengths:
 
-  Languages & Frameworks: Deep experience with Java and Python, along with exposure to a wide range of programming languages and technologies across backend and data domains.
-  
   - Data Engineering & ETL: Skilled in designing and maintaining robust ETL pipelines, ensuring data integrity and scalability in processing workflows.
-  - Terminal & Workflow Enthusiast: Passionate about efficient, terminal-based development. Regular user of Bash, Zsh, Fish, Nushell, and PowerShell.
+  - Terminal & Workflow Enthusiast: Passionate about efficient, terminal-based development. Regular user of Bash, Zsh, Fish, and PowerShell.
   - Documentation & Knowledge Sharing: Enjoy writing clear, thorough documentation and creating internal training materials to support team growth and onboarding.
-  - Cloud & DevOps: Practical experience working with cloud environments and continuous integration tools such as Jenkins and GitHub Actions.
+  - Cloud & DevOps: Practical experience working with cloud environments (AWS) and continuous integration tools such as Jenkins and GitHub Actions.
   - Technical Leadership: Proven track record of mentoring teammates, reviewing code, guiding architecture decisions, and contributing to a culture of quality and collaboration.
   - Adaptability: Comfortable working across a diverse technical landscape and learning new tools and frameworks as needed.
 
@@ -55,28 +54,30 @@ content:
         quote: >
           I am most skilled in Java and Python
         description: |
-          - <mark>Java<mark>
-          - <mark>Python<mark>
+          - Java
+          - Python
           - Kotlin
           - SQL
           - Bash and PowerShell Scripting
           - Groovy
-          - Rust
+          - PLSQL
 
       - layout: left
         title: Technologies
         quote: >
           Some of the technologies I have worked with
         description: | 
-          - AWS (SageMaker, Redshift, Kinesis, S3, Lambda, DynamoDB, Glue, CloudFormation)
-          - Github Actions
-          - Apache Spark
-          - Apache Flink
-          - Docker/Kubernetes
+          - AWS (SNS, SQS, Kinesis, SageMaker, Athena, Redshift, Kinesis, S3, Lambda, DynamoDB, Glue, CloudFormation, and others)
+          - Github Actions/Jenkins
+          - Apache Spark, Apache Flink, Apache Camel and RabbitMQ
+          - Docker/Kubernetes/Fargate
           - Spring and Spring Boot
           - REST APIs
-          - Bash, Zsh, Fish and PowerShell 
-          - Jupyter Notebook
+          - dbt
+          - Bash, Zsh, Fish, Nushell and PowerShell 
+          - Gradle and Maven
+          - Jupyter Notebooks, Dagster, Polars, Parquet and Pandas
+          - Poetry and uv
 
   - title: Experience
     layout: list
@@ -89,14 +90,15 @@ content:
         quote: >
           Technical Lead modernizing a legacy customs platform with streaming data pipelines, microservices, and internal tooling, while mentoring engineers and driving CI/CD and analytics improvements
         description: |
-          Technologies: <mark>Java</mark> <mark>Python</mark> <mark>Apache Kafka</mark> <mark>Debezium</mark> <mark>Oracle</mark> <mark>Jenkins</mark> <mark>Spring Boot</mark> <mark>Apache Camel</mark> <mark>Jenkins</mark> <mark>Kubernetes</mark> <mark>AWS Eclipse RCP/RAP</mark> <mark>Groovy</mark>
+          Technologies: <mark>Java</mark> <mark>Python</mark> <mark>Apache Kafka</mark> <mark>Debezium</mark> <mark>PLSQL</mark> <mark>Oracle</mark> <mark>Jenkins</mark> <mark>Quarkus</mark> <mark>Apache Camel</mark> <mark>Jenkins</mark> <mark>Kubernetes</mark> <mark>AWS Eclipse RCP/RAP</mark> <mark>Groovy</mark>
 
           - Lead a cross-functional engineering team, mentoring developers through pair programming, code reviews, and technical coaching. Promoted knowledge sharing and engineering excellence across the team.
-          - Designed and maintained CI/CD pipelines using Jenkins for automated building, releasing, and deploying of core applications. Produced detailed internal documentation and created onboarding and training materials.
+          - Designed and maintained CI/CD pipelines using Jenkins for automation, building, releasing, and deploying of core applications. 
+          - Produced detailed internal documentation and created onboarding and training materials.
           - Analyzed and architected client-specific projects in the domain of international customs and trade compliance, handling complex product stock breakdowns to compute import/export declarations and facilitate communication with customs authorities.
-          - Maintained a large legacy system based on an Eclipse RAP application, an Apache Camel integration layer, and an Oracle database with extensive PL/SQL logic.
+          - Maintained and modernize a large legacy system based on an Eclipse RAP application, an Apache Camel integration layer, and an Oracle database with extensive PL/SQL logic.
           - Led a stack modernization initiative, introducing Apache Kafka and Debezium to enable streaming data pipelines for near real-time processing and integration.
-          - Refactored core business logic by migrating from untested PL/SQL code to maintainable Java and Python services, improving testability, observability, and reliability.
+          - Refactored core business logic by migrating from untested PL/SQL code to maintainable Java and Python services also improved testability, observability, and reliability.
           - Developed internal tools for data handling, automated regression/system testing, and platform monitoring, supporting development velocity and system stability.
           - Implemented batch processing solutions for analytics use cases, pre-aggregating and restructuring data spanning multiple Oracle tables to significantly improve query performance and report generation.
       
@@ -108,10 +110,10 @@ content:
         quote: >
           Enabling insurance risk assessment with cutting-edge data pipelines and real-time analytics.
         description: |
-            Technologies: <mark>Java</mark> <mark>Python</mark> <mark>AWS</mark> <mark>ETL</mark> <mark>Apache Spark</mark> <mark>Apache Flink</mark> <mark>PostgreSQL</mark>, <mark>AWS Fargate</mark> <mark>REST APIs</mark> <mark>Polars</mark> <mark>AWS S3</mark> <mark>AWS DynamoDB</mark> <mark>AWS Kinesis</mark> <mark>GitHub Actions</mark>
+            Technologies: <mark>Java</mark> <mark>Python</mark> <mark>AWS</mark> <mark>ETL</mark> <mark>Apache Spark</mark> <mark>Apache Flink</mark> <mark>PostgreSQL</mark> <mark>MySQL</mark> <mark>AWS Fargate</mark> <mark>REST APIs</mark> <mark>Polars</mark> <mark>AWS S3</mark> <mark>AWS DynamoDB</mark> <mark>Amazon Kinesis</mark> <mark>Redshift DB</mark> <mark>GitHub Actions</mark>
 
             - Led a team of engineers, providing mentorship through pair programming, code reviews, and skill development initiatives to ensure high-quality deliverables and foster continuous learning.
-            - Contributed to the design and implementation of a scalable data warehouse on Amazon Redshift, centralizing data from diverse sources to support real-time risk evaluation and policy pricing.
+            - Contributed to the design and implementation of a scalable data warehouse on Amazon Redshift, centralizing data from diverse sources to support near real-time risk evaluation, policy pricing.
             - Built streaming data pipelines using AWS Kinesis, Apache Spark, and Apache Flink, leveraging Java and Python to process client-submitted form data and ranked questionnaires for dynamic underwriting decisions.
             - Aggregated third-party datasets to enhance client profiles with claims history and behavioral insights, refining risk prediction models.
             - Developed and maintained secure RESTful APIs, enabling efficient and scalable data access for both internal teams and external partners.
@@ -129,7 +131,7 @@ content:
         description: |
           Technologies: <mark>Java</mark> <mark>Spring</mark> <mark>Spring Boot</mark> <mark>PostgreSQL</mark> <mark>REST APIs</mark> <mark>AngularJS</mark>
 
-            - Worked as a Software Engineer on the easyJet hotel booking integration project, contributing to the development of a microservices architecture for hotel booking functionalities.
+          - Worked as a Software Engineer on the easyJet hotel booking integration project, contributing to the development of a microservices architecture for hotel booking functionalities.
           - Contributed to the development of a hotel booking application integrated into easyJet's flight reservation system, enhancing the customer experience by enabling hotel selection during flight booking.
           - Developed RESTful APIs using Spring Boot microservices, with Feign clients for inter-service communication and PostgreSQL as the data backend.
           - Implemented key backend features to support booking workflows, pricing, and availability checks.
@@ -165,7 +167,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Encrypted File Explorer
+        title: Award Best Project - Encrypted File Explorer
         link: androidcurso.com/index.php/modulo-fundamentos/proyectos-finales-alumnos/67-proyectos-finales-curso-android-fundamentos-6-ed-2015/628-encryptorpcy
         additional_links:
           - title:  enctryptor-PCY
