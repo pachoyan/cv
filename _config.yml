@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Pau Chorro Yanguas
-title: Software/Data Engineer
+title: Data/Software Engineer and Tech Lead
 email: pauchorroyanguas@gmail.com
 website: https://pachoyan.github.io/cv/
 
@@ -32,6 +32,7 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
   Versatile and passionate data/software engineer with a solid background in Java and Python. As a tech lead, I focus on building high-quality, maintainable systems and fostering strong development practices. I have broad experience designing software architectures, maintaining and refactoring legacy systems, leading migrations, mentoring engineers, and building data pipelines.
+  
   I bring deep experience in the Java and Python ecosystems, complemented by broad exposure to diverse programming languages and technologies across backend and data domains.
   
   Core Strengths:
@@ -208,6 +209,7 @@ content:
     content: |
 
       Alongside my interests in software engineering some of personale interests on technology include:
+
       - Exploring the latest trends in software development and data engineering.
       - Trying out new programming languages and frameworks.
       - Using new shells and terminal-based tools to enhance productivity: Nushell, Elvish, Xonsh, Zsh, Fish, and PowerShell.
@@ -218,7 +220,8 @@ content:
     layout: text
     content: |
 
-      Although I love software engineering, I also enjoy spending time doing other activities.
+      Although I love software engineering, I also enjoy spending time doing other activities:
+
       - Traveling and exploring new cultures.
       - Playing tennis, football, padel and squash.
       - Watching movies and series.
